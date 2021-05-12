@@ -1,0 +1,7 @@
+H:\ASP.NET\singleton\singleton\bin\Debug\singleton.exe.config
+H:\ASP.NET\singleton\singleton\bin\Debug\singleton.exe
+H:\ASP.NET\singleton\singleton\bin\Debug\singleton.pdb
+H:\ASP.NET\singleton\singleton\obj\Debug\singleton.csprojAssemblyReference.cache
+H:\ASP.NET\singleton\singleton\obj\Debug\singleton.csproj.CoreCompileInputs.cache
+H:\ASP.NET\singleton\singleton\obj\Debug\singleton.exe
+H:\ASP.NET\singleton\singleton\obj\Debug\singleton.pdb
