@@ -1,8 +1,10 @@
 # Software-Design-Pattern
-DecoderPattern
+###DecoderPattern
 ![alt text](Photo/DecoderPattern.PNG)
 
-Strategy Pattern
+
+
+###Strategy Pattern
 ![alt text](Photo/Strategy.PNG)
 
 
