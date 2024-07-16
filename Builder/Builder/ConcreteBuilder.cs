@@ -7,14 +7,11 @@
         {
             this.Reset();
         }
-
         public void Reset()
         {
             this._product = new Product();
         }
-
         // All production steps work with the same product instance.
-
         public Product GetProduct()
         {
             Product result = this._product;

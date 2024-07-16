@@ -5,4 +5,7 @@
 # Strategy Pattern
 ![alt text](Photo/Strategy.PNG)
 
+# Builder Pattern
+![alt text](Photo/BuilderPattern.PNG)
+
 

@@ -20,7 +20,6 @@
             _builder.Battery();
             _builder.Radiator();
         }
-
         public void BuildMiddlePerformanceProduct()
         {
             _builder.Engine180();
@@ -30,7 +29,6 @@
             _builder.Radiator180();
             
         }
-
         public void BuildFullFeaturedProduct()
         {
             _builder.Engine360();
